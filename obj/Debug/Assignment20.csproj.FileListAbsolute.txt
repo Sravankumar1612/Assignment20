@@ -1,0 +1,11 @@
+E:\Dotnet\Phase1\Day17\Assignment20\Assignment20\bin\Debug\Assignment20.exe.config
+E:\Dotnet\Phase1\Day17\Assignment20\Assignment20\bin\Debug\Assignment20.exe
+E:\Dotnet\Phase1\Day17\Assignment20\Assignment20\bin\Debug\Assignment20.pdb
+E:\Dotnet\Phase1\Day17\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.AssemblyReference.cache
+E:\Dotnet\Phase1\Day17\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.SuggestedBindingRedirects.cache
+E:\Dotnet\Phase1\Day17\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.CoreCompileInputs.cache
+E:\Dotnet\Phase1\Day17\Assignment20\Assignment20\obj\Debug\Assignment20.exe
+E:\Dotnet\Phase1\Day17\Assignment20\Assignment20\obj\Debug\Assignment20.pdb
+E:\Dotnet\Phase1\Day17\Assignment20\Assignment20\bin\Debug\AssignLib.dll
+E:\Dotnet\Phase1\Day17\Assignment20\Assignment20\bin\Debug\AssignLib.pdb
+E:\Dotnet\Phase1\Day17\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.CopyComplete
